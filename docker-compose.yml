@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  py27:
+    build: .
+    image: mypy27
+
